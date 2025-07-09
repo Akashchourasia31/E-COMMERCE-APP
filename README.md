@@ -1,2 +1,23 @@
-# E-COMMERCE-APP
-This E-Commerce Android app is developed in Java using Firebase as the backend. It allows users to browse products, add items to the cart, and place orders. The app includes features like user authentication, real-time database, and order tracking, providing a smooth and secure shopping experience with a user-friendly interface.
+# Kotlin E-Commerce Android App
+
+A basic e-commerce mobile app built with Kotlin and Firebase.
+
+## Features
+- Firebase Authentication
+- Product listing from Firebase Realtime DB
+- Add to cart functionality
+- Simple and clean Material UI
+
+## Tech Stack
+- Kotlin
+- Firebase Auth & Database
+- Android Jetpack Components
+
+## Setup
+1. Clone the repo
+2. Add `google-services.json` to `app/`
+3. Enable Firebase Auth and Realtime Database
+4. Run in Android Studio
+
+## Author
+Akash Chourasia
