@@ -1,28 +1,3 @@
-com.example.ecommerceapp
-|-- ui
-|   |-- MainActivity.kt
-|   |-- ProductListAdapter.kt
-|   |-- ProductDetailActivity.kt
-|   |-- CartActivity.kt
-|
-|-- model
-|   |-- Product.kt
-|   |-- CartItem.kt
-|
-|-- viewmodel
-|   |-- ProductViewModel.kt
-|   |-- CartViewModel.kt
-|
-|-- repository
-|   |-- ProductRepository.kt
-|
-|-- utils
-|   |-- FirebaseUtils.kt
-
-
-
-
-
 # Kotlin E-Commerce Android App
 
 A basic e-commerce mobile app built with Kotlin and Firebase.
